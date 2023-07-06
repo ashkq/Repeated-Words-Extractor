@@ -1,4 +1,6 @@
 # Repeated-Words-Extractor
+![RWE](https://github.com/ashkq/Repeated-Words-Extractor/assets/137235427/f2a70730-e0bc-4cc1-b3cd-140d6ca63d30)
+
 1. The function opens the input file specified by in_file using the open() function and assigns it to the open_file variable.
 2. It also opens the output file specified by out_file in write mode ('w') using the open() function and assigns it to the write_file variable.
 3. The variable is_write_file_empty is set to True initially. This variable is used to track if the output file is empty or not.
